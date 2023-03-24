@@ -1,0 +1,21 @@
+{
+  "name": "playwright_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KishoreBhumadi9502/Playwright_Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KishoreBhumadi9502/Playwright_Automation/issues"
+  },
+  "homepage": "https://github.com/KishoreBhumadi9502/Playwright_Automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.32.0"
+  }
+}
